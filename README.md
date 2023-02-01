@@ -1,5 +1,4 @@
 # CPE 322-A
-![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
 
 * Engineering Design VI
 * This repository will include all notes from lectures, as well as all lab assignments.
@@ -18,3 +17,5 @@
 From Watchmen by Alan Moore
 > "The disciplines of physical exercise, meditation and study aren't terribly esoteric. The means to attain a capability far beyond that of the so-called ordinary person are within the reach of everyone, if their desire and their will are strong enough. I have studied science, art, religion, and a hundred different philosophies. Anyone could do as much. By applying what you learn and ordering your thoughts in an intelligent manner it is possible to accomplish almost anything. Possible for an 'ordinary person.' There's a notion I'd like to see buried: the ordinary person. Ridiculous. There is no ordinary person." -Ozymandias
 
+## And here is my favorite version of the Stevens logo
+![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
