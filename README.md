@@ -6,7 +6,6 @@
 * I am looking forward to taking this class and learning as much as I can.
 
 ## Some Relevant Links
-Listed in Order of Importance
 1. [Professor Lu's Class Repo](https://github.com/jli198/iot)
 2. [Course Google Site](https://sites.google.com/view/ece322)
 3. [Project Team Site](https://sites.google.com/stevens.edu/cpe322-23s-proj13/)
