@@ -1,5 +1,5 @@
 # CPE 322-A
-![Stevens Logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png))
+![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
 
 * Engineering Design VI
 * This repository will include all notes from lectures, as well as all lab assignments.
@@ -11,7 +11,7 @@
 
 1. [Professor Lu's Class Repo](https://github.com/jli198/iot)
 2. [Course Google Site](https://sites.google.com/view/ece322)
-3. [Project Teeam Site](https://sites.google.com/stevens.edu/cpe322-23s-proj13/)
+3. [Project Team Site](https://sites.google.com/stevens.edu/cpe322-23s-proj13/)
 4. [My LinkedIn](https://www.linkedin.com/in/angeltomasordonezretamar/)
 
 ## A Favorite Quote of Mine
