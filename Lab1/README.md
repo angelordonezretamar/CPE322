@@ -62,8 +62,8 @@ and the output looks like this:
 ![1-to-4 Multiplexer GTKWave](lab1gtkwave1to4multiplex.png)
 
 ## References
-[GHDL README.md in DSD GitHub Repo](https://github.com/kevinwlu/dsd/tree/master/ghdl)
-[Article Explaining VHDL](https://www.allaboutcircuits.com/technical-articles/hardware-description-langauge-getting-started-vhdl-digital-circuit-design/)
+*[GHDL README.md in DSD GitHub Repo](https://github.com/kevinwlu/dsd/tree/master/ghdl)
+*[Article Explaining VHDL](https://www.allaboutcircuits.com/technical-articles/hardware-description-langauge-getting-started-vhdl-digital-circuit-design/)
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
 ![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
