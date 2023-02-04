@@ -23,6 +23,40 @@ From allaboutcircuits.com
 ## Results
 The first thing that I did after installing everything following the steps from Professor Lu's DSD repo was a hello world program
 ![Hello World](lab1helloworld.png)
+After that worked out nicely I started running some examples that were reccomended by Professor Lu
+There are very nice instructions in his DSD repo for running all of these, but if you want to follow along you can also look at the snippets I provided of the exact code that I entered into powershell to get them running.
+
+Here are all of the examples I did, with the commands in powershell and the output in GTKWave
+### Half Adder
+In powershell the commands look like this:
+![Half Adder Powershell](lab1powershellHA.png)
+and the output looks like this:
+![Half Adder GTKWave](lab1gtkwaveHA.png)
+
+### Full Adder
+In powershell the commands look like this:
+
+and the output looks like this:
+
+### D Flip-Flop
+In powershell the commands look like this:
+
+and the output looks like this:
+
+### T Flip-Flop
+In powershell the commands look like this:
+
+and the output looks like this:
+
+### 4-to-1 Multiplexer
+In powershell the commands look like this:
+
+and the output looks like this:
+
+### 1-to-4 Miltiplexer
+In powershell the commands look like this:
+
+and the output looks like this:
 
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
