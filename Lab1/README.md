@@ -11,14 +11,12 @@ The instructions for the lab were as follows:
   * Document results on your GitHub repository
 * Exploration: [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog)
 
-
+## What is VHDL?
 * GHDL is an open-source simulator for the VHDL language
 * I found a website which explained VHDL very nicely since I was still confused about it when starting this lab
-* I ran the half adder, full adder, D flip-flip, T flip-flop, 4-to-1 multiplexer, and 1-to-4 multiplexer and included the results from viewing them in GTKWAVE here
-
-## What is VHDL?
 From allaboutcircuits.com
 > "VHDL is one of the commonly used Hardware Description Languages (HDL) in digital circuit design. VHDL stands for VHSIC Hardware Description Language. In turn, VHSIC stands for Very-High-Speed Integrated Circuit."
+* I ran the half adder, full adder, D flip-flip, T flip-flop, 4-to-1 multiplexer, and 1-to-4 multiplexer and included the results from viewing them in GTKWAVE here
 
 ## Results
 The first thing that I did after installing everything following the steps from Professor Lu's DSD repo was a hello world program
@@ -35,29 +33,33 @@ and the output looks like this:
 
 ### Full Adder
 In powershell the commands look like this:
-
+![Full Adder Powershell](lab1powershellFA.png)
 and the output looks like this:
+![Full Adder GTKWave](lab1gtkwaveFA.png)
 
 ### D Flip-Flop
 In powershell the commands look like this:
-
+![D Flip-Flop Powershell](lab1powershellDFF.png)
 and the output looks like this:
+![D Flip-Flop GTKWave](lab1gtkwaveDFF.png)
 
 ### T Flip-Flop
 In powershell the commands look like this:
-
+![T Flip-Flop Powershell](lab1powershellTFF.png)
 and the output looks like this:
+![T Flip-Flop GTKWave](lab1gtkwaveTFF.png)
 
 ### 4-to-1 Multiplexer
 In powershell the commands look like this:
-
+![4-to-1 Multiplexer Powershell](lab1powershell4to1multiplex.png)
 and the output looks like this:
+![4-to-1 Multiplexer GTKWave](lab1gtkwave4to1multiplex.png)
 
 ### 1-to-4 Miltiplexer
 In powershell the commands look like this:
-
+![1-to-4 Multiplexer Powershell](lat1powershell1to4multiplex.png)
 and the output looks like this:
-
+![1-to-4 Multiplexer GTKWave](lab1gtkwave1to4multiplex.png)
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
 ![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
