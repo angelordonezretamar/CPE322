@@ -21,7 +21,8 @@ From allaboutcircuits.com
 > "VHDL is one of the commonly used Hardware Description Languages (HDL) in digital circuit design. VHDL stands for VHSIC Hardware Description Language. In turn, VHSIC stands for Very-High-Speed Integrated Circuit."
 
 ## Results
-the first thing that I did after installing everything following the steps from Professor Lu's DSD repo was a hello world program
+The first thing that I did after installing everything following the steps from Professor Lu's DSD repo was a hello world program
+![Hello World](helloworld.jpg)
 
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
