@@ -22,7 +22,7 @@ From allaboutcircuits.com
 
 ## Results
 The first thing that I did after installing everything following the steps from Professor Lu's DSD repo was a hello world program
-![Hello World](lab1helloworld.jpg)
+![Hello World](lab1helloworld.png)
 
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
