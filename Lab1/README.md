@@ -57,7 +57,7 @@ and the output looks like this:
 
 ### 1-to-4 Miltiplexer
 In powershell the commands look like this:
-![1-to-4 Multiplexer Powershell](lto4powershell1to4multiplex.png)
+![1-to-4 Multiplexer Powershell](lab1powershell1to4multiplex.png)
 and the output looks like this:
 ![1-to-4 Multiplexer GTKWave](lab1gtkwave1to4multiplex.png)
 
