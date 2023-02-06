@@ -6,7 +6,7 @@ The instructions for the lab were as follows:
 * Study lessons 1 and 2
 * Open a terminal 
 
-'''
+~~~
 $ hostname
 $ env
 $ ps
@@ -29,7 +29,7 @@ $ uname -a
 $ ifconfig
 $ ping localhost
 $ netstat
-'''
+~~~
 
 ## Setting Up Raspberry Pi Again
 * I am sad to say that I have not used my Pi very much since CPE 390
