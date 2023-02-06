@@ -37,11 +37,11 @@ $ netstat
 * I believe that project may have screwed it up a bit so I set it up fresh following the IOT repo [Lesson One](https://github.com/kevinwlu/iot/tree/master/lesson1)
 * After setting the Pi up again I followed the lab instructions listed above
 
+## Results
+* To be continued...
+
 ## References
 * [IOT Repo](https://github.com/kevinwlu/dsd/tree/master)
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
 ![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
-
-## Results
-* To be continued...
