@@ -33,7 +33,7 @@ $ netstat
 
 ## Setting Up Raspberry Pi Again
 * I am sad to say that I have not used my Pi very much since CPE 390
-* One of the last things I did was set it up to mine a niche crypto called magicoin
+* One of the last things I did was set it up to mine an obscure cryptocurrency called magicoin
 * I believe that project may have screwed it up a bit so I set it up fresh following the IOT repo [Lesson One](https://github.com/kevinwlu/iot/tree/master/lesson1)
 * I used the Tom's Hardware guide to setting up a "headless" pi so that I could try something new and set it up in a way I had not done before
 
