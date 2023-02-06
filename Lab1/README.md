@@ -14,7 +14,7 @@ The instructions for the lab were as follows:
 ## What is VHDL?
 * GHDL is an open-source simulator for the VHDL language
 * I found a website which explained VHDL very nicely since I was still confused about it when starting this lab
-From allaboutcircuits.com
+* From allaboutcircuits.com
 > "VHDL is one of the commonly used Hardware Description Languages (HDL) in digital circuit design. VHDL stands for VHSIC Hardware Description Language. In turn, VHSIC stands for Very-High-Speed Integrated Circuit."
 * I ran the half adder, full adder, D flip-flip, T flip-flop, 4-to-1 multiplexer, and 1-to-4 multiplexer and included the results from viewing them in GTKWAVE here
 
