@@ -5,6 +5,7 @@ The instructions for the lab were as follows:
 * Go to the IOT repository
 * Study lessons 1 and 2
 * Open a terminal 
+
 '''
 $ hostname
 $ env
