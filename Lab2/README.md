@@ -43,7 +43,7 @@ It took some fiddling but after a couple of wipes of the sd card and retrying to
 I also set up the VNC viwer to be able to use my pi completely from my laptop with no additional monitor, keyboard, or mouse
 ![VNC Viewer](vncviewerworkstoo.png)
 
-> fun fact, if you don't understand the references made in my pi login and hostname. These are names from Don Quijote, a great book by Spanish author Miguel de Cervantes. My laptop is named Rocinante after Don Quijote's horse, so I named my pi Rucio after Sancho Panza's donkey.
+> fun fact, if you don't understand the references made in my pi login and hostname. These are names from Don Quijote, a great book by Spanish author Miguel de Cervantes. My laptop is named Rocinante after Don Quijote's horse, so I named my pi Rucio after Sancho Panza's donkey. Since my pi is a sidekick to my laptop like how Sancho Panza and Rucio are sidekicks to Don Quijote and Rocinante. 
 
 
 ## Results
