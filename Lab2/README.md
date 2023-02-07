@@ -47,7 +47,12 @@ I also set up the VNC viwer to be able to use my pi completely from my laptop wi
 
 
 ## Results
-* To be continued...
+The first commands to be entered: hostname, env, ps, and pwd.
+![Hostname-Pwd](hostname-pwd.png)
+
+Next git clone-df
+
+Next...
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/dsd/tree/master)
