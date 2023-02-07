@@ -38,7 +38,10 @@ $ netstat
 * I used the Tom's Hardware guide to setting up a "headless" pi so that I could try something new and set it up in a way I had not done before
 
 It took some fiddling but after a couple of wipes of the sd card and retrying to connect through putty I finally got it
-![My SSH finally established]()
+![My SSH finally established](sshconnectionworks.png)
+
+I also set up the VNC viwer to be able to use my pi completely from my laptop with no additional monitor, keyboard, or mouse
+![VNC Viewer](vncviewerworkstoo.png)
 
 
 ## Results
