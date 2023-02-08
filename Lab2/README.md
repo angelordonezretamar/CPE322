@@ -50,7 +50,20 @@ I also set up the VNC viwer to be able to use my pi completely from my laptop wi
 The first commands to be entered: hostname, env, ps, and pwd.
 ![Hostname-Pwd](hostname-pwd.png)
 
-Next git clone-df
+Next git clone-rm
+![Clone-Rm](gitclone-rm.png)
+
+Next man uname which opened up this manual
+![Man Uname](manuname.png)
+
+Next uname-a and ifconfig
+![Uname-a and Ifconfig](uname-a-ping.png)
+
+Notice that long line of pings at the end? Thats because in linux using ping goes on forever, see here:
+![Ping Localhost](pinglocalhost.png)
+
+The way to stop this is by using the command -c and next putting the number of times you want to check it
+![Ping that stops](ping-c3.png)
 
 Next...
 
