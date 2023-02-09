@@ -50,8 +50,10 @@ I also set up the VNC viwer to be able to use my pi completely from my laptop wi
 The first commands to be entered: hostname, env, ps, and pwd.
 ![Hostname-Pwd](hostname-pwd.png)
 
-Next git clone-rm
+Next git clone, cd iot, ls, cd, df, mkdir demo, cd demo, nano file, cat file, cp file file1, mv file file2, rm file2
 ![Clone-Rm](gitclone-rm.png)
+
+Nest I cleared the terminal using clear and then continued
 
 Next man uname which opened up this manual
 ![Man Uname](manuname.png)
@@ -65,7 +67,9 @@ Notice that long line of pings at the end? Thats because in linux using ping goe
 The way to stop this is by using the command -c and next putting the number of times you want to check it
 ![Ping that stops](ping-c3.png)
 
-Next...
+Last netstat which gave a very long output so here is the beginning chunk and the end chunk
+![Netstat1](netstat1.png)
+![Netstat2](netstat2.png)
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/dsd/tree/master)
