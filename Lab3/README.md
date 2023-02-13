@@ -20,6 +20,12 @@ $ python3 battery.py
 $ python3 documentstats.py document.txt
 ~~~
 
+## Using Raspberry Pi 
+* Raspberry pi already has python 2 and python 3 installed and it is reccomended to not update these installations
+* It also has pip and pip3 installed 
+* This means that we can get straight into running these python examples
+* From the IOT repo lesson 3, I have copied in the examples that we are running in this lab into this repo 
+
 ## Results
 
 ## References
