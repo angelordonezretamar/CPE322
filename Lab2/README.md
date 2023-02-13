@@ -72,7 +72,7 @@ Last netstat which gave a very long output so here is the beginning chunk and th
 ![Netstat2](netstat2.png)
 
 ## References
-* [IOT Repo](https://github.com/kevinwlu/dsd/tree/master)
+* [IOT Repo](https://github.com/kevinwlu/iot)
 * [How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
