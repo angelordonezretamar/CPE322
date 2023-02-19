@@ -31,6 +31,19 @@ $ python3 documentstats.py document.txt
 The first two commands are just to get into the folder from the terminal
 ![Getting into the folder](gettingintothefolder.png)
 
+From there I ran julian.py-datetime_example.py and here are the outputs:
+![julian-datetime](julian-datetime.png)
+
+Then I ran the time_example.py program and was concerned by the fact that it went on, very slowly, forever. So I went to the program to see how to stop it and learned that by pressing ctrl+c the program quits.
+![time](time.png)
+
+I had trouble running the next few examples because my pi was telling me that I didn't have the python packages installed. I will ask around about this but I was not going to attempt to update the packages through pip or anything since it was very clear on the iot repo that you should not upgrade the pip or python packages that are already on the pi. So these are the results when they couldn't really run, from sun.py-cpu.py
+![sun-cpu](sun-cpu.png)
+
+The last two programs for this lab were battery.py and documentstats.py, here are the results:
+![battery-documentstats](battery-documentstats.png)
+
+> I may update the readme later on if I find out how to run those examples that I had trouble with
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
