@@ -21,12 +21,8 @@ $ python3 documentstats.py document.txt
 ~~~
 
 ## Using Raspberry Pi 
-* Raspberry pi already has python 2 and python 3 installed and it is reccomended to not update these installations
-* It also has pip and pip3 installed 
-* This means that we can get straight into running these python examples
-* From the IOT repo lesson 3, I have copied in the examples that we are running in this lab into this repo 
-
-* One quick little thing that I had to do in order to use my pi for the lab was to write some changes in the system_info.py file
+* Raspberry pi already has python 2, python 3, pip, and pip3 already installed and it is reccomended not to update these installation 
+* One quick little thing that I did have to do in order to use my pi for the lab was to write some changes in the system_info.py file
 * It was 2 quick changes to the directory where I changed /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd
 * Here you can see the output of running that file after making those changes:
 ![Fixing system_info](fixingsysteminfo.png)
