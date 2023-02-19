@@ -28,6 +28,9 @@ $ python3 documentstats.py document.txt
 ![Fixing system_info](fixingsysteminfo.png)
 
 ## Results
+The first two commands are just to get into the folder from the terminal
+![Getting into the folder](gettingintothefolder.png)
+
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
