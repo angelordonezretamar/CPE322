@@ -27,7 +27,7 @@ cout << "Hello World!" << endl;
 ~~~
 
 ## My favorite GIF
-![LA ROJA](https://i.makeagif.com/media/12-20-2015/n4iXWk.gif)
+<img src="https://i.makeagif.com/media/12-20-2015/n4iXWk.gif" width="100" height="100" />
 
 ## Stevens Institute of Technology, Computer Engineering, class of 2024
 ![Stevens Logo](https://web.stevens.edu/news/newspoints/brand-logos/2020/Circular/Stevens-Circular-Logo-2020_RED.png)
