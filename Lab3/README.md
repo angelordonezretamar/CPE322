@@ -33,6 +33,7 @@ The first two commands are just to get into the folder from the terminal
 
 From there I ran julian.py throught the datetime_example.py and here are the outputs:
 >Notice the -days till the last day in the semester, this is because the code was set for the fall semester and not the spring. 
+
 ![julian-datetime](julian-datetime.png)
 
 Then I ran the time_example.py program and was concerned by the fact that it went on, very slowly, forever. So I went to the program to see how to stop it and learned that by pressing ctrl+c the program quits.
