@@ -1,4 +1,4 @@
-# CPE 322-A Lab 4: ThingSpeak and Google Sheets
+# CPE 322-A Lab 7: ThingSpeak and Google Sheets
 
 
 ## Assignment Overview 
