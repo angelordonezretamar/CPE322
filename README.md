@@ -2,7 +2,7 @@
 
 * Engineering Design VI
 * This repository is for all of my lab assignments
-  * I will now display some of my knowledge of Markdown:
+  * I will now display some of my Markdown knowledge:
 
 ## Some Relevant Links
 1. [Professor Lu's Class Repo](https://github.com/jli198/iot)
