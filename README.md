@@ -4,6 +4,28 @@
 * This repository is for all of my lab assignments
   * I will now display some of my Markdown knowledge:
 
+## Assignment and Lab Checklist
+[x] Lab 1: GHDL and GTKWAVE
+[x] Assignment 1: Project Site
+[x] Lab 2: Command Line
+[x] Assignment 2: Needs Assessment
+[x] Lab 3: Python
+[x] Assignment 3: Problem Formulation
+[ ] Lab 4: Django and Flask
+[x] Assignment 4: Solution Development
+[ ] Lab 5: Paho-MQTT
+[ ] Assignment 5: Intellectual Properties
+[ ] Lab 6: 
+[ ] Assignment 6:
+[ ] Lab 7:
+[ ] Assignment 7: 
+[ ] Lab 8: 
+[ ] Assignment 8:
+[ ] Lab 9:
+[ ] Assignment 9:
+[ ] Lab 10:
+[ ] Assignment 10:
+
 ## Some Relevant Links
 1. [Professor Lu's Class Repo](https://github.com/jli198/iot)
 2. [Course Google Site](https://sites.google.com/view/ece322)
