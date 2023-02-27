@@ -8,9 +8,9 @@ The instructions for the assignment were as follows:
 * Install Pystache and run say_hello.py that uses the template in say_hello.mustache
 
 ## Using Raspberry Pi 
-* Installing Node.js
+* Installing Node.js:
 
-* Installing Pystache
+* Installing Pystache:
 
 ## Results
 * Node.js examples:
