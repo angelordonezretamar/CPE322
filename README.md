@@ -1,5 +1,7 @@
 # CPE 322-A
 
+![Alt Text](https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47prsace5t851332ycygpb28kg0s9z2g972aatg6gi&rid=giphy.gif&ct=g)
+
 * Engineering Design VI
 * This repository is for all of my lab assignments
   * I will now display some of my Markdown knowledge:
