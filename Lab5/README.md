@@ -1,4 +1,4 @@
-# CPE 322-A Lab 4: Paho-MQTT
+# CPE 322-A Lab 5: Paho-MQTT
 
 
 ## Assignment Overview 
