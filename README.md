@@ -5,26 +5,27 @@
   * I will now display some of my Markdown knowledge:
 
 ## Assignment and Lab Checklist
-[x] Lab 1: GHDL and GTKWAVE
-[x] Assignment 1: Project Site
-[x] Lab 2: Command Line
-[x] Assignment 2: Needs Assessment
-[x] Lab 3: Python
-[x] Assignment 3: Problem Formulation
-[ ] Lab 4: Django and Flask
-[x] Assignment 4: Solution Development
-[ ] Lab 5: Paho-MQTT
-[ ] Assignment 5: Intellectual Properties
-[ ] Lab 6: 
-[ ] Assignment 6:
-[ ] Lab 7:
-[ ] Assignment 7: 
-[ ] Lab 8: 
-[ ] Assignment 8:
-[ ] Lab 9:
-[ ] Assignment 9:
-[ ] Lab 10:
-[ ] Assignment 10:
+- [x] Lab 1: GHDL and GTKWAVE
+- [x] Assignment 1: Project Site
+- [x] Lab 2: Command Line
+- [x] Assignment 2: Needs Assessment
+- [x] Lab 3: Python
+- [x] Assignment 3: Problem Formulation
+- [ ] Lab 4: Django and Flask
+- [x] Assignment 4: Solution Development
+- [ ] Lab 5: Paho-MQTT
+- [ ] Assignment 5: Intellectual Properties
+- [ ] Lab 6: Node.js and Pystache
+- [ ] Assignment 6: Abstraction & Modeling
+- [ ] Lab 7: ThingSpeak and Google Sheets
+- [ ] Assignment 7: Synthesis
+- [ ] Lab 8: Data Analysis
+- [ ] Assignment 8: Ethics and Liability
+- [ ] Lab 9: YANG
+- [ ] Assignment 9: Failure and Hazard Analysis
+- [ ] Lab 10: Blockchain
+- [ ] Assignment 10: Design Analysis
+- [ ] Assignment 11: implementation
 
 ## Some Relevant Links
 1. [Professor Lu's Class Repo](https://github.com/jli198/iot)
