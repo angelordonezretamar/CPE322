@@ -2,9 +2,6 @@
 
 * Engineering Design VI
 * This repository is for all of my lab assignments
-  * I will now display some of my Markdown knowledge:
-
-![Alt Text](https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47prsace5t851332ycygpb28kg0s9z2g972aatg6gi&rid=giphy.gif&ct=g)
 
 ## Assignment and Lab Checklist
 - [x] Lab 1: GHDL and GTKWAVE
@@ -34,6 +31,10 @@
 2. [Course Google Site](https://sites.google.com/view/ece322)
 3. [Project Team Site](https://sites.google.com/stevens.edu/cpe322-23s-proj13/)
 4. [My LinkedIn](https://www.linkedin.com/in/angeltomasordonezretamar/)
+
+## Additional Examples to Show My Markdown Knowledge
+
+![Alt Text](https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47prsace5t851332ycygpb28kg0s9z2g972aatg6gi&rid=giphy.gif&ct=g)
 
 ## My Favorite Code Snippet
 You'll never forget the first program you wrote
