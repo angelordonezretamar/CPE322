@@ -1,4 +1,4 @@
-# CPE 322-A Lab 4: Node.js and Pystache
+# CPE 322-A Lab 6: Node.js and Pystache
 
 
 ## Assignment Overview 
