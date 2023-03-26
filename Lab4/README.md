@@ -22,6 +22,8 @@ $ sudo pip3 install -U django-filter
 $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ~~~
+> I also optionally installed MariaDB to my Pi
+
 3. Start Django project STEVENS
 4. Start Django REST project MYCPU
 * possible problem: requests.exceptions.InvalidURL: Failed to parse: http://127.0.0.1:8000/dt/1/
