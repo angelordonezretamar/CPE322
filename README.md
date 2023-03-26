@@ -10,7 +10,7 @@
 - [x] Assignment 2: Needs Assessment
 - [x] Lab 3: Python
 - [x] Assignment 3: Problem Formulation
-- [ ] Lab 4: Django and Flask
+- [x] Lab 4: Django and Flask
 - [x] Assignment 4: Solution Development
 - [ ] Lab 5: Paho-MQTT
 - [ ] Assignment 5: Intellectual Properties
