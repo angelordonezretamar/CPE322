@@ -22,22 +22,6 @@ $ sudo pip3 install -U django-filter
 $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ~~~
-2. Install MariaDB server and client on Raspberry Pi
-~~~
-$ sudo apt update
-$ sudo apt install mariadb-server mariadb-client
-$ sudo apt install python3-mysqldb
-$ sudo pip3 install -U mysqlclient
-$ sudo mysql_secure_installation
-Enter current password for root (enter for none): 
-Change the root password? [Y/n] 
-New password: PASSWORD
-Re-enter new password: PASSWORD
-Remove anonymous users? [Y/n] 
-Disallow root login remotely? [Y/n] 
-Remove test database and access to it? [Y/n] 
-Reload privilege tables now? [Y/n]
-~~~
 3. Start Django project STEVENS
 4. Start Django REST project MYCPU
 * possible problem: requests.exceptions.InvalidURL: Failed to parse: http://127.0.0.1:8000/dt/1/
