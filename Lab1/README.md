@@ -20,7 +20,7 @@ The instructions for the lab were as follows:
 
 ## Results
 The first thing that I did after installing everything following the steps from Professor Lu's DSD repo was a hello world program
-![Hello World](lab1helloworld.png)
+![Hello World](images/helloworld.png)
 After that worked out nicely I started running some examples that were reccomended by Professor Lu.
 There are very nice instructions in his DSD repo for running all of these, but if you want to follow along you can also look at the snippets I provided of the exact code that I entered into powershell to get them running.
 
