@@ -13,11 +13,11 @@
 - [x] Lab 4: Django and Flask
 - [x] Assignment 4: Solution Development
 - [ ] Lab 5: Paho-MQTT
-- [ ] Assignment 5: Intellectual Properties
+- [x] Assignment 5: Intellectual Properties
 - [ ] Lab 6: Node.js and Pystache
-- [ ] Assignment 6: Abstraction & Modeling
+- [x] Assignment 6: Abstraction & Modeling
 - [ ] Lab 7: ThingSpeak and Google Sheets
-- [ ] Assignment 7: Synthesis
+- [x] Assignment 7: Synthesis
 - [ ] Lab 8: Data Analysis
 - [ ] Assignment 8: Ethics and Liability
 - [ ] Lab 9: YANG
