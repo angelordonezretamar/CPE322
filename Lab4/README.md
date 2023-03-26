@@ -50,6 +50,7 @@ python3 hello_world.py
 ![mycpu](mycpuoutput.png)
 
 ### Flask
+everything is incuded in the hello_world.py file
 ~~~
 $ cd ~/iot/lesson4
 $ python3 hello_world.py
