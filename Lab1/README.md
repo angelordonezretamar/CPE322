@@ -27,39 +27,39 @@ There are very nice instructions in his DSD repo for running all of these, but i
 Here are all of the examples I did, with the commands in powershell and the output in GTKWave
 ### Half Adder
 In powershell the commands look like this:
-![Half Adder Powershell](lab1powershellHA.png)
+![Half Adder Powershell](images/powershellHA.png)
 and the output looks like this:
-![Half Adder GTKWave](lab1gtkwaveHA.png)
+![Half Adder GTKWave](images/gtkwaveHA.png)
 
 ### Full Adder
 In powershell the commands look like this:
-![Full Adder Powershell](lab1powershellFA.png)
+![Full Adder Powershell](images/powershellFA.png)
 and the output looks like this:
-![Full Adder GTKWave](lab1gtkwaveFA.png)
+![Full Adder GTKWave](images/gtkwaveFA.png)
 
 ### D Flip-Flop
 In powershell the commands look like this:
-![D Flip-Flop Powershell](lab1powershellDFF.png)
+![D Flip-Flop Powershell](images/powershellDFF.png)
 and the output looks like this:
-![D Flip-Flop GTKWave](lab1gtkwaveDFF.png)
+![D Flip-Flop GTKWave](images/gtkwaveDFF.png)
 
 ### T Flip-Flop
 In powershell the commands look like this:
-![T Flip-Flop Powershell](lab1powershellTFF.png)
+![T Flip-Flop Powershell](images/powershellTFF.png)
 and the output looks like this:
-![T Flip-Flop GTKWave](lab1gtkwaveTFF.png)
+![T Flip-Flop GTKWave](images/gtkwaveTFF.png)
 
 ### 4-to-1 Multiplexer
 In powershell the commands look like this:
-![4-to-1 Multiplexer Powershell](lab1powershell4to1multiplex.png)
+![4-to-1 Multiplexer Powershell](images/powershell4to1multiplex.png)
 and the output looks like this:
-![4-to-1 Multiplexer GTKWave](lab1gtkwave4to1multiplex.png)
+![4-to-1 Multiplexer GTKWave](images/gtkwave4to1multiplex.png)
 
 ### 1-to-4 Miltiplexer
 In powershell the commands look like this:
-![1-to-4 Multiplexer Powershell](lab1powershell1to4multiplex.png)
+![1-to-4 Multiplexer Powershell](images/powershell1to4multiplex.png)
 and the output looks like this:
-![1-to-4 Multiplexer GTKWave](lab1gtkwave1to4multiplex.png)
+![1-to-4 Multiplexer GTKWave](images/gtkwave1to4multiplex.png)
 
 ## References
 * [GHDL README.md in DSD GitHub Repo](https://github.com/kevinwlu/dsd/tree/master/ghdl)
