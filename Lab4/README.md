@@ -46,7 +46,7 @@ python3 hello_world.py
 ### Django REST project MYCPU
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
 * Output on my laptop's browser:
-![mycpu](mycpu.png)
+![mycpu](mycpuoutput.png)
 
 ### Flask
 ~~~
