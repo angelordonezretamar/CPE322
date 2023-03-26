@@ -41,13 +41,20 @@ python3 hello_world.py
 ### Django project STEVENS
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 * Output on my laptop's browser:
+![Stevens](stevensoutput.png)
 
 ### Django REST project MYCPU
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
 * Output on my laptop's browser:
+![mycpu](mycpu.png)
 
 ### Flask
+~~~
+$ cd ~/iot/lesson4
+$ python3 hello_world.py
+~~~
 * Output:
+![flask](flask.png)
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
