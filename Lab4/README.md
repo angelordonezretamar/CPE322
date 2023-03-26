@@ -42,6 +42,7 @@ python3 hello_world.py
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 * Output on my laptop's browser:
 ![Stevens](stevensoutput.png)
+>for both Stevens and Mycpu projects, there is optional support for google maps API, this is a subscription that I do not have so the map does not work on the site
 
 ### Django REST project MYCPU
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
