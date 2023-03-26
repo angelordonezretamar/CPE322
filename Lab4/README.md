@@ -50,7 +50,7 @@ python3 hello_world.py
 
 ## Results
 * first was the installation:
-![intallation1](intallation1.png)
+![intallation1](installation1.png)
 ![installation2](installation2.png)
 ### Django project STEVENS
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
