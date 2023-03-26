@@ -49,6 +49,9 @@ python3 hello_world.py
 ~~~
 
 ## Results
+* first was the installation:
+![intallation1](intallation1.jpg)
+![installation2](installation2.jpg)
 ### Django project STEVENS
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 * Output on my laptop's browser:
