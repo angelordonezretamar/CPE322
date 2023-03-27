@@ -36,18 +36,18 @@ python3 hello_world.py
 
 ## Results
 * first was the installation:
-![intallation1](installation1.png)
-![installation2](installation2.png)
+![intallation1](images/installation1.png)
+![installation2](images/installation2.png)
 ### Django project STEVENS
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 * Output on my laptop's browser:
-![Stevens](stevensoutput.png)
+![Stevens](images/stevensoutput.png)
 >for both Stevens and Mycpu projects there is optional support for google maps API, this is a subscription that I do not have so the map does not work on the site
 
 ### Django REST project MYCPU
 * followed instructions on [Repo](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
 * Output on my laptop's browser:
-![mycpu](mycpuoutput.png)
+![mycpu](images/mycpuoutput.png)
 
 ### Flask
 everything is incuded in the hello_world.py file
@@ -56,7 +56,7 @@ $ cd ~/iot/lesson4
 $ python3 hello_world.py
 ~~~
 * Output:
-![flask](flask.png)
+![flask](images/flask.png)
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
