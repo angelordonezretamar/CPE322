@@ -13,7 +13,7 @@ The instructions for the assignment were as follows:
 
 ## Using Raspberry Pi 
 * Installing Paho-MQTT:
-![install](images/changingdirectories.png)
+![install](images/chngdirectories.png)
 * Testing
 ![test](images/testhello.png)
 ## Results
