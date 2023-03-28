@@ -13,12 +13,12 @@ The instructions for the assignment were as follows:
 
 ## Using Raspberry Pi 
 * Installing Paho-MQTT:
-
-* Changing directories and updating repo:
-
+![install](images/changingdirectories.png)
+* Testing
+![test](images/testhello.png)
 ## Results
 * running both examples:
-
+![results](images/results.png)
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
 
