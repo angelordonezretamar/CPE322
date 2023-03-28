@@ -9,14 +9,19 @@ The instructions for the assignment were as follows:
 
 ## Using Raspberry Pi 
 * Installing Node.js:
-
-* Installing Pystache:
+![node](images/nodeinstall.png)
 
 ## Results
 * Node.js examples:
-
+  * Hello world
+![helloworld](images/helloworld.png)
+  * Hello
+![hello](images/hello.png)
+  * Http
+![http](images/http.png)
 * Pystache examples:
-
+  * Installing Pystache and running say_hello.py
+![pystache](images/pystache.png)
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
 
