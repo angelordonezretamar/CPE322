@@ -19,7 +19,7 @@ The instructions for the assignment were as follows:
 ![hello](images/hello.png)
   * Http
 ![http](images/http.png)
-* Pystache examples:
+* Pystache example:
   * Installing Pystache and running say_hello.py
 ![pystache](images/pystache.png)
 ## References
