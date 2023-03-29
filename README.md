@@ -12,9 +12,9 @@
 - [x] Assignment 3: Problem Formulation
 - [x] Lab 4: Django and Flask
 - [x] Assignment 4: Solution Development
-- [ ] Lab 5: Paho-MQTT
+- [x] Lab 5: Paho-MQTT
 - [x] Assignment 5: Intellectual Properties
-- [ ] Lab 6: Node.js and Pystache
+- [x] Lab 6: Node.js and Pystache
 - [x] Assignment 6: Abstraction & Modeling
 - [ ] Lab 7: ThingSpeak and Google Sheets
 - [x] Assignment 7: Synthesis
