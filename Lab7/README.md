@@ -11,8 +11,8 @@ The instructions for the assignment were as follows:
 * Start a new Google sheet cpudata, share it with the client email in the JSON file, delete Rows 2 to 1000, and edit the header cells
 * Run cpu_spreadsheet.py with the JSON key file in a demo folder
 
-## Using Raspberry Pi 
-
+## Using WSL
+In the past labs I've been using my raspberry pi for everything, but I know that other students use their regular windows terminal or WSL for labs. I decided to setup WSL and use it for the time being so that I could learn something new.
 
 ## Results
 
