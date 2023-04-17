@@ -16,7 +16,6 @@ The instructions for the assignment were as follows:
 
 
 ## Results
-* the first 6 figures are from plt_final.py
 * Figure 1
 ![fig1](images/fig1.png)
 
