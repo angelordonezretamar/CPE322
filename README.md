@@ -16,14 +16,14 @@
 - [x] Assignment 5: Intellectual Properties
 - [x] Lab 6: Node.js and Pystache
 - [x] Assignment 6: Abstraction & Modeling
-- [ ] Lab 7: ThingSpeak and Google Sheets
+- [x] Lab 7: ThingSpeak and Google Sheets
 - [x] Assignment 7: Synthesis
-- [ ] Lab 8: Data Analysis
-- [ ] Assignment 8: Ethics and Liability
+- [x] Lab 8: Data Analysis
+- [x] Assignment 8: Ethics and Liability
 - [ ] Lab 9: YANG
-- [ ] Assignment 9: Failure and Hazard Analysis
+- [x] Assignment 9: Failure and Hazard Analysis
 - [ ] Lab 10: Blockchain
-- [ ] Assignment 10: Design Analysis
+- [x] Assignment 10: Design Analysis
 - [ ] Assignment 11: implementation
 
 ## Some Relevant Links
