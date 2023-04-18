@@ -9,11 +9,11 @@ The instructions for the assignment were as follows:
 * Run pyang to generate intrusiondetection.yin and intrusiondetection.uml
 * Run PlantUML to generate intrusiondetection.png
 
-## Using Raspberry Pi 
-
+## Using WSL
+![WSL](images/ubuntu.png)
 
 ## Results
-
+![intrusiondetection](images/intrusiondetection.png)
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
