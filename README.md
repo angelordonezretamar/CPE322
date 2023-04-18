@@ -20,7 +20,7 @@
 - [x] Assignment 7: Synthesis
 - [x] Lab 8: Data Analysis
 - [x] Assignment 8: Ethics and Liability
-- [ ] Lab 9: YANG
+- [x] Lab 9: YANG
 - [x] Assignment 9: Failure and Hazard Analysis
 - [ ] Lab 10: Blockchain
 - [x] Assignment 10: Design Analysis
