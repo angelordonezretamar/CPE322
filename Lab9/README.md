@@ -11,9 +11,11 @@ The instructions for the assignment were as follows:
 
 ## Using WSL
 ![WSL](images/ubuntu.png)
+> "explorer.exe ." command to open file explorer and copy over the intrusiondetection.png generated to this repo
 
 ## Results
 ![intrusiondetection](images/intrusiondetection.png)
+
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
