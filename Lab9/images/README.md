@@ -1,1 +1,1 @@
-images from the lab used in the readme
+images from the lab included in the readme
