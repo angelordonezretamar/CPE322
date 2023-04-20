@@ -16,26 +16,26 @@ The instructions for the assignment were as follows:
 
 
 ## Results
-Figure 1
-![fig1](images/fig1.png)
+* Figure 1
+* ![fig1](images/fig1.png)
 
-Figure 2
-![fig2](images/fig2.png)
+* Figure 2
+* ![fig2](images/fig2.png)
 
-Figure 3
-![fig3](images/fig3.png)
+* Figure 3
+* ![fig3](images/fig3.png)
 
-Figure 4
-![fig4](images/fig4.png)
+* Figure 4
+* ![fig4](images/fig4.png)
 
-Figure 5
-![fig5](images/fig5.png)
+* Figure 5
+* ![fig5](images/fig5.png)
 
-Figure 6
-![fig6](images/fig6.png)
+* Figure 6
+* ![fig6](images/fig6.png)
 
-Figure 7- plt_cv2.py
-![fig7](images/plt_cv2.png)
+* Figure 7- plt_cv2.py
+* ![fig7](images/plt_cv2.png)
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
