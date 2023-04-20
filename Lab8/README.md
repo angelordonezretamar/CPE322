@@ -17,7 +17,7 @@ The instructions for the assignment were as follows:
 
 ## Results
 * Figure 1
-* ![fig1](images/fig1.png)
+![fig1](images/fig1.png)
 
 * Figure 2
 * ![fig2](images/fig2.png)
