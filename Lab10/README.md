@@ -18,7 +18,7 @@ The instructions for the assignment were as follows:
 * ![snake](images/snakecoin.png)
 
 * snakecoin-server-full-code.py
-* ![dualsnakes](images/dualtrerminalssnakecoin.png)
+* ![dualsnakes](images/dualterminalssnakecoin.png)
 * ![snakecoinmine](images/snakecoinmine.png)
 
 * smallest blockchain
