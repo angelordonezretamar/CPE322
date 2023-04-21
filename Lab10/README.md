@@ -10,11 +10,20 @@ The instructions for the assignment were as follows:
 * Clone Python blockchain app and uncomment the last line of node_server.py
 * Run node_server.py on Terminal 1 and run_app.py on Terminal 2
 
-## Using Raspberry Pi 
-
-
 ## Results
+* hash_value.py was run twice to see that the results are different every time it is run:
+* ![hash](images/hashvalues.png)
 
+* snakecoin.py
+* ![snake](images/snakecoing.png)
+
+* snakecoin-server-full-code.py
+* ![dualsnakes](images/dualrerminalssnakecoin.png)
+* ![snakecoinmine](images/snakecoinmine.png)
+
+* smallest blockchain
+* ![mined](images/block1mined.png)
+* ![post](images/yournetpost.png)
 
 ## References
 * [IOT Repo](https://github.com/kevinwlu/iot)
