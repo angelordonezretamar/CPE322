@@ -15,10 +15,10 @@ The instructions for the assignment were as follows:
 * ![hash](images/hashvalues.png)
 
 * snakecoin.py
-* ![snake](images/snakecoing.png)
+* ![snake](images/snakecoin.png)
 
 * snakecoin-server-full-code.py
-* ![dualsnakes](images/dualrerminalssnakecoin.png)
+* ![dualsnakes](images/dualtrerminalssnakecoin.png)
 * ![snakecoinmine](images/snakecoinmine.png)
 
 * smallest blockchain
