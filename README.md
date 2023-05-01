@@ -24,7 +24,7 @@
 - [x] Assignment 9: Failure and Hazard Analysis
 - [x] Lab 10: Blockchain
 - [x] Assignment 10: Design Analysis
-- [ ] Assignment 11: implementation
+- [x] Assignment 11: implementation
 
 ## Some Relevant Links
 1. [Professor Lu's Class Repo](https://github.com/jli198/iot)
